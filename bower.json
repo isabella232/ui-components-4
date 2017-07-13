@@ -1,0 +1,26 @@
+{
+  "name": "manageiq-ui-components",
+  "version": "0.0.15",
+  "description": "UI components for ManageIQ project",
+  "main": [
+    "dist/css/ui-components.css",
+    "dist/js/ui-components.js"
+  ],
+  "authors": [
+    ""
+  ],
+  "license": "Apache-2.0",
+  "homepage": "",
+  "moduleType": [],
+  "ignore": [
+    "*",
+    "!dist/",
+    "!dist/*",
+    "!dist/js/*",
+    "!dist/css/*",
+    "!LICENSE",
+    "!README.md"
+  ],
+  "dependencies": {},
+  "devDependencies": {}
+}
