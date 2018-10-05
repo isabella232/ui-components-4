@@ -1,5 +1,9 @@
 # Angular UI Components for ManageIQ
 
+Note: As of [#349](https://github.com/ManageIQ/ui-components/pull/349), the `bower-dev` branch is no longer updated.
+
+---
+
 The ManageIQ/ui-components repository is used to provide shared UI components for the various ManageIQ UIs.
 
 ---
